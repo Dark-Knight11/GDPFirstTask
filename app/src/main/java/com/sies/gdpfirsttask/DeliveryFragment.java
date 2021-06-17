@@ -47,7 +47,6 @@ public class DeliveryFragment extends Fragment {
 
         noOfHotels = view.findViewById(R.id.noOfHotels);
         noOfHotels.setText(details[0].length + " Restaurants");
-
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         recyclerView.setAdapter(new RecyclerAdapter(details, drawables));
 
