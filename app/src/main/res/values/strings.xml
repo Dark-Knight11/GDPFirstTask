@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GDPFirstTask</string>
+    <string name="home">Home</string>
+    <string name="delivery">Delivery</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="top_foodie">Top Foodie</string>
+    <string name="profile">Profile</string>
+    <string name="filter"><u>Filter</u></string>
+    <string name="share">Share</string>
+</resources>
