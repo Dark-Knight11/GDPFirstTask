@@ -94,6 +94,7 @@
             android:minWidth="0dp"
             android:minHeight="0dp"
             tools:text="4.6"
+            android:clickable="false"
             android:layout_marginEnd="5dp"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
